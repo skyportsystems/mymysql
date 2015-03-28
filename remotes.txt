@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/mymysql (fetch)
+origin	git@github.com:skyportsystems/mymysql (push)
+upstream	https://github.com/ziutek/mymysql.git (fetch)
+upstream	https://github.com/ziutek/mymysql.git (push)
